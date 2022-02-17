@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	printf("Goodbye for now!");
+	printf("Goodbye!");
 }
