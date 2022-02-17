@@ -4,6 +4,7 @@
 GITHUB
 GITLAB
 GITBUCKET
+BAZAAR
 
 # Select a preferred VCS
 
